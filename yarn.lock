@@ -26,9 +26,10 @@
   version "0.0.28"
   resolved "https://registry.yarnpkg.com/@types/greasemonkey/-/greasemonkey-0.0.28.tgz#bb03070b334964836343e00d264bd0ecff9ec60d"
 
-"@types/hls.js@^0.10.1":
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/@types/hls.js/-/hls.js-0.10.1.tgz#24ecc333aa6d24f2fd6278bd86985088beb5d34a"
+"@types/hls.js@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/@types/hls.js/-/hls.js-0.12.0.tgz#33f73e542201a766fa56792cb81fe9f97d7097ed"
+  integrity sha512-hJ7eJAQVEazAANK4Ay0YbXlZF36SDy9c8kcHTF7//77ylgV6hV/JrlwhVmobsSacr5aZcbw5MbZ2bSHbS36eOQ==
 
 "@types/lodash@^4.14.78":
   version "4.14.116"
