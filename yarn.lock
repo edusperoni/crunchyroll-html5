@@ -18,9 +18,10 @@
   version "0.0.28"
   resolved "https://registry.yarnpkg.com/@types/filewriter/-/filewriter-0.0.28.tgz#c054e8af4d9dd75db4e63abc76f885168714d4b3"
 
-"@types/firefox-webext-browser@^64.0.0":
-  version "64.0.0"
-  resolved "https://registry.yarnpkg.com/@types/firefox-webext-browser/-/firefox-webext-browser-64.0.0.tgz#e3e109ce38f515ade51e3712ec6832071ab41a89"
+"@types/firefox-webext-browser@^65.0.0":
+  version "65.0.0"
+  resolved "https://registry.yarnpkg.com/@types/firefox-webext-browser/-/firefox-webext-browser-65.0.0.tgz#ff2c8a1993cee3643ffab455bdaf176b3a3a8f94"
+  integrity sha512-J/hNOwMft/nVk++fywknSJJhwU8vJsmD6fVQRbqtD8BnxBaGCCkNGIUV2pWuD/K4jeTH1R8+pBvIEC+JKvjR/w==
 
 "@types/greasemonkey@^0.0.28":
   version "0.0.28"
