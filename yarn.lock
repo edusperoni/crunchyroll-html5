@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/chrome@^0.0.75":
-  version "0.0.75"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.75.tgz#11cb716cdaa13fc15c47bfcc11da325f375f23d1"
+"@types/chrome@^0.0.79":
+  version "0.0.79"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.79.tgz#1c83b35bd9b21b6204fb56e4816a1ea65dc013e5"
+  integrity sha512-4+Xducpig6lpwVX65Hk8KSZwRoURHXMDbd38SDNcV8TBaw4xyJki39fjB1io2h7ip+BsyFvgTm9OxR5qneLPiA==
   dependencies:
     "@types/filesystem" "*"
 
