@@ -122,7 +122,7 @@
     "raw-loader": "^0.5.1",
     "reflect-metadata": "^0.1.12",
     "url-parse": "^1.2.0",
-    "webextension-polyfill": "^0.3.0",
+    "webextension-polyfill": "^0.4.0",
     "webworkify-webpack-dropin": "^1.1.9"
   }
 }
