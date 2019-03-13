@@ -73,7 +73,7 @@
   "devDependencies": {
     "@types/chrome": "^0.0.75",
     "@types/firefox-webext-browser": "^64.0.0",
-    "@types/greasemonkey": "^0.0.28",
+    "@types/greasemonkey": "^4.0.0",
     "@types/hls.js": "^0.10.1",
     "@types/lodash": "^4.14.78",
     "@types/node": "^10.5.2",
